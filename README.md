@@ -1,16 +1,16 @@
-## Hi there 👋
+# 个人简介 / Personal Profile
 
-<!--
-**WkJ01N/WkJ01N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**𝓒𝓲𝓪𝓵𝓵𝓸～(∠・ω< )⌒☆**  
+**我是WkJ01N!**
 
-Here are some ideas to get you started:
+🔥大一学生一名，坐标**澳门科技大学 (MUST)**，**创新工程学院 (FIE)**，主修**人工智能**专业🔥   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**关于我 / About Me**
+
+*   🎯 **目标**: 致力于探索并掌握计算机相关知识。
+*   🌱 **状态**: 正处于学习<!--摆烂-->积累<!--内耗-->（克服困意）阶段，对一切新技术充满好奇。
+
+很高兴能在这里与你交流！希望我们能共同进步。  
+Nice to meet you here! Looking forward to growing together.
