@@ -10,9 +10,6 @@
 **关于我 / About Me**
 
 *   🌱 **状态**: 正处于学习<!--摆烂-->积累<!--内耗-->（克服困意）阶段。
-*   📊 **统计**: 💸⏱️👍
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WkJ01N&show_icons=true&theme=radical)
 
 很高兴能在这里与你交流！希望我们能共同进步。  
 Nice to meet you here! Looking forward to growing together.
